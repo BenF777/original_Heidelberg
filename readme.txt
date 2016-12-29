@@ -1,0 +1,4 @@
+0720431 - BRAIN TUMOR PANEL
+menigiom - MENIGIOM PANEL
+S04380110 - EXOM PANEL
+snp141Common_RS-CG.n192.vh20151104.bed - SNP for fingerprint generation
